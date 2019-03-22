@@ -1,5 +1,5 @@
-# gotta-convert-em-all
+# gcea
 
-[![GuardRails badge](https://badges.production.guardrails.io/daveio/gotta-convert-em-all.svg?token=ad1cd876d6bdb836715a0084250ae54bededbc41aea7fcf06acbfbf862da0867&ts=1537123490123)](https://www.guardrails.io)
+## (aka Gotta Convert 'Em All)
 
-Convert stuff on put.io that hasn't been converted yet
+Convert files stored on put.io to mp4
