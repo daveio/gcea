@@ -4,8 +4,6 @@ import colorama
 import time
 import os
 
-__version__ = "1.0.0"
-
 def read_config(filename):
     try:
         with open(filename, 'r') as f:
