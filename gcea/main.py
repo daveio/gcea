@@ -44,7 +44,7 @@ def flatten(this_list):
     """Flatten nested lists inside a list"""
     values = []
     for entry in this_list:
-        if isinstance(list, entry):
+        if isinstance(entry, list):
             return flatten(entry)
         # else
         values.append(entry)
