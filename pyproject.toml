@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "gcea"
+version = "1.0.6"
+description = ""
+authors = ["Dave Williams <dave@dave.io>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+"putio.py" = "^8.7.0"
+colorama = "^0.4.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
